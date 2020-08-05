@@ -105,6 +105,12 @@
 .elementor-22 .elementor-element.elementor-element-c7a5b17 {--image-transition-duration: 800ms;--overlay-transition-duration: 800ms;--content-text-align: center;--content-padding: 20px;--content-transition-duration: 800ms;--content-transition-delay: 800ms;}
 .elementor-22 .elementor-element.elementor-element-c7a5b17 .e-gallery-item:hover .elementor-gallery-item__overlay {background-color: rgba(0,0,0,.5);}
 .elementor-22 .elementor-element.elementor-element-d95bf7f .elementor-spacer-inner {height: 50px;}
+.elementor-22 .elementor-element.elementor-element-dada1a6 {text-align: center;}
+.elementor-22 .elementor-element.elementor-element-dada1a6 .elementor-heading-title {color: #7a7a7a;}
+.elementor-22 .elementor-element.elementor-element-e013b72 {--divider-border-style: solid;--divider-border-color: #7a7a7a;--divider-border-width: 3.5px;}
+.elementor-22 .elementor-element.elementor-element-e013b72 .elementor-divider-separator {width: 20%;margin: 0 auto;margin-center: 0;}
+.elementor-22 .elementor-element.elementor-element-e013b72 .elementor-divider {text-align: center;padding-top: 2px;padding-bottom: 2px;}
+.elementor-22 .elementor-element.elementor-element-e013b72 .elementor-icon i, .elementor-22 .elementor-element.elementor-element-e013b72 .elementor-icon svg {transform: rotate(0deg);}
 @media (max-width:1024px) {.elementor-22 .elementor-element.elementor-element-708830c3 {padding: 100px 25px 100px 25px;}
 	.elementor-22 .elementor-element.elementor-element-55a728fb {padding: 15px 0px 0px 0px;}
 	.elementor-22 .elementor-element.elementor-element-30e8048 > .elementor-element-populated {margin: 0px 5px 0px 0px;}
